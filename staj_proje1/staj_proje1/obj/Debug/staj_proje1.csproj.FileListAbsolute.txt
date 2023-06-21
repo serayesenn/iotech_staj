@@ -1,0 +1,16 @@
+C:\Users\Seray\Desktop\staj_csharp\staj_proje1\staj_proje1\bin\Debug\staj_proje1.exe.config
+C:\Users\Seray\Desktop\staj_csharp\staj_proje1\staj_proje1\bin\Debug\staj_proje1.exe
+C:\Users\Seray\Desktop\staj_csharp\staj_proje1\staj_proje1\bin\Debug\staj_proje1.pdb
+C:\Users\Seray\Desktop\staj_csharp\staj_proje1\staj_proje1\obj\Debug\staj_proje1.csproj.AssemblyReference.cache
+C:\Users\Seray\Desktop\staj_csharp\staj_proje1\staj_proje1\obj\Debug\staj_proje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Seray\Desktop\staj_csharp\staj_proje1\staj_proje1\obj\Debug\staj_proje1.csproj.CoreCompileInputs.cache
+C:\Users\Seray\Desktop\staj_csharp\staj_proje1\staj_proje1\obj\Debug\staj_proje1.exe
+C:\Users\Seray\Desktop\staj_csharp\staj_proje1\staj_proje1\obj\Debug\staj_proje1.pdb
+C:\Users\Seray\Desktop\proje_dizini\staj_proje1\staj_proje1\bin\Debug\staj_proje1.exe.config
+C:\Users\Seray\Desktop\proje_dizini\staj_proje1\staj_proje1\bin\Debug\staj_proje1.exe
+C:\Users\Seray\Desktop\proje_dizini\staj_proje1\staj_proje1\bin\Debug\staj_proje1.pdb
+C:\Users\Seray\Desktop\proje_dizini\staj_proje1\staj_proje1\obj\Debug\staj_proje1.csproj.AssemblyReference.cache
+C:\Users\Seray\Desktop\proje_dizini\staj_proje1\staj_proje1\obj\Debug\staj_proje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Seray\Desktop\proje_dizini\staj_proje1\staj_proje1\obj\Debug\staj_proje1.csproj.CoreCompileInputs.cache
+C:\Users\Seray\Desktop\proje_dizini\staj_proje1\staj_proje1\obj\Debug\staj_proje1.exe
+C:\Users\Seray\Desktop\proje_dizini\staj_proje1\staj_proje1\obj\Debug\staj_proje1.pdb
